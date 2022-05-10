@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>表格</title>
+    <g id="表格" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10.457,0.6 L1.543,0.6 C1.0220861,0.6 0.6,1.0220861 0.6,1.543 L0.6,10.457 C0.6,10.9779139 1.0220861,11.4 1.543,11.4 L10.457,11.4 C10.9779139,11.4 11.4,10.9779139 11.4,10.457 L11.4,1.543 C11.4,1.0220861 10.9779139,0.6 10.457,0.6 Z M1.543,1.4 L10.457,1.4 C10.5360861,1.4 10.6,1.4639139 10.6,1.543 L10.6,10.457 C10.6,10.5360861 10.5360861,10.6 10.457,10.6 L1.543,10.6 C1.4639139,10.6 1.4,10.5360861 1.4,10.457 L1.4,1.543 C1.4,1.4639139 1.4639139,1.4 1.543,1.4 Z" id="Stroke-1" fill="#506079" fill-rule="nonzero"></path>
+        <polygon id="Stroke-3" fill="#506079" fill-rule="nonzero" points="10.7887 3.9145 10.7887 4.7145 1.3217 4.7145 1.3217 3.9145"></polygon>
+        <polygon id="Stroke-5" fill="#506079" fill-rule="nonzero" points="3.9787 7.2426 3.9787 8.0426 1.3217 8.0426 1.3217 7.2426"></polygon>
+        <polygon id="Stroke-7" fill="#506079" fill-rule="nonzero" points="4.7129 1.1646 4.7129 10.9996 3.9129 10.9996 3.9129 1.1646"></polygon>
+        <polygon id="Stroke-9" fill="#506079" fill-rule="nonzero" points="6.3999 8.0127 6.3999 10.5787 5.5999 10.5787 5.5999 8.0127"></polygon>
+        <polygon id="Stroke-11" fill="#506079" fill-rule="nonzero" points="8.2827 7.3213 8.2827 10.6553 7.4827 10.6553 7.4827 7.3213"></polygon>
+        <polygon id="Stroke-13" fill="#506079" fill-rule="nonzero" points="9.8316 5.9512 9.8316 10.6552 9.0316 10.6552 9.0316 5.9512"></polygon>
+        <polygon id="Stroke-15" fill="#506079" fill-rule="nonzero" points="7.9507 1.0825 7.9507 3.9535 7.1507 3.9535 7.1507 1.0825"></polygon>
+    </g>
+</svg>

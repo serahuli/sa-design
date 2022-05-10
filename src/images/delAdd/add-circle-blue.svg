@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 4</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4.3.1-团队设置，-点击" transform="translate(-602.000000, -449.000000)">
+            <g id="编组-10" transform="translate(590.000000, 395.000000)">
+                <g id="编组" transform="translate(12.000000, 51.000000)">
+                    <g id="编组-4" transform="translate(0.000000, 3.000000)">
+                        <circle id="椭圆形" fill="#2684FF" cx="6" cy="6" r="6"></circle>
+                        <g id="添加" transform="translate(3.250000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                            <g transform="translate(0.307692, 0.000000)" id="编组-5">
+                                <path d="M4.6484375,2 C4.84260011,2 5,2.22385763 5,2.5 C5,2.75490065 4.86588412,2.96525099 4.69253675,2.99610429 L4.6484375,3 L0.3515625,3 C0.157399893,3 0,2.77614237 0,2.5 C0,2.24509935 0.134115885,2.03474901 0.307463247,2.00389571 L0.3515625,2 L4.6484375,2 Z" id="直线-3备份"></path>
+                                <path d="M2.5,0 C2.75490065,0 2.96525099,0.134115885 2.99610429,0.307463247 L3,0.3515625 L3,4.6484375 C3,4.84260011 2.77614237,5 2.5,5 C2.24509935,5 2.03474901,4.86588412 2.00389571,4.69253675 L2,4.6484375 L2,0.3515625 C2,0.157399893 2.22385763,0 2.5,0 Z" id="直线-3备份"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
